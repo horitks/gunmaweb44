@@ -1,8 +1,8 @@
 # gunmaweb44
  
 ## Description
-- https://gunmaweb.connpass.com/event/236295/
-- gunmaweb44 登壇資料
+- [gunmaweb44](https://gunmaweb.connpass.com/event/236295/) 登壇資料
+- [発表内容](https://github.com/horitks/gunmaweb44/blob/main/gunmaweb44.md)
  
 ## Features
 <!-- 機能 -->
