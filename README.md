@@ -2,6 +2,7 @@
  
 ## Description
 - [gunmaweb44](https://gunmaweb.connpass.com/event/236295/) 登壇資料
+- Markdownで登壇資料を作りたい
 - [発表内容](https://github.com/horitks/gunmaweb44/blob/main/gunmaweb44.md)
  
 ## Features
