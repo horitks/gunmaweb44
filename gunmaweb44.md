@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: black
+theme: gaia
 footer: "by @t_pori418"
 paginate: true
 ---
