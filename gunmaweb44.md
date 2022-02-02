@@ -8,7 +8,7 @@ paginate: true
 <!-- _class: lead -->
 # Markdownで登壇資料を作りたい
 
-Marp, Wunderpresentation
+Marp, Wunderpresentation, (reveal)
 
 2022/02/05 horitks
 Gunma.web #44 テーマフリー
@@ -173,3 +173,9 @@ WunderpresentationはChrome拡張もあります。
 
 - プレビューだけならvscode-revealとかも良さげです。
 - PDFはあんまりいい感じに出力できなかったです。
+
+<br>
+
+- デモ
+  (marp用で書いたmarkdownをthemeだけ変えて出力してみました)
+  - https://horitks.github.io/gunmaweb44/
