@@ -10,7 +10,7 @@
 - markdown
   - https://github.com/horitks/gunmaweb44/blob/main/gunmaweb44.md
 - reveal(theme: black)
-  - https://github.com/horitks/gunmaweb44/blob/main/export/index.html
+  - https://github.com/horitks/gunmaweb44/blob/main/docs/index.html
   - marp向けに書いたmdもthemeを変えればわりといい感じで出力されます。
 
 ## Usage
