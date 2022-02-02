@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: gaia
+theme: black
 footer: "by @t_pori418"
 paginate: true
 ---
@@ -27,6 +27,7 @@ Gunma.web #44 テーマフリー
 今日は知ってる人は知ってるって感じの軽めのネタです
 
 ---
+
 <!-- _class: lead -->
 # スライドをMarkdownで書きたい！
 
@@ -165,3 +166,10 @@ PDF出力して完成!
 WunderpresentationはChrome拡張もあります。
 <br>
 ![bg w:1100](images/notion_slides_by_wunderpresentation.png)
+
+---
+
+### Appendix
+
+- プレビューだけならvscode-revealとかも良さげです。
+- PDFはあんまりいい感じに出力できなかったです。
